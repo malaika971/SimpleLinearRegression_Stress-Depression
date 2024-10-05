@@ -19,6 +19,9 @@ Here are the key features of the model:
   3. Sleeplessness (0.96)
   4. Unhealthy Diet (0.83)
 
+![HeatMap](https://github.com/user-attachments/assets/46e8c4f2-b994-4ce9-a22a-2c216c9547c3)
+
+
 ## Model Evaluation
 • The Model Evaluation resulted in an R² score of 0.95, meaning 95% of the variability in stress and depression is explained by the feature variables. The Mean Squared Error (MSE) is 0.1369, indicating quite accurate predictions.
 Overall, the high R² and low MSE suggest that the model captures the underlying trends well.
